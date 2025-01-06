@@ -24,3 +24,7 @@ During the game:
 - press `r` to restart
 - press `space` to toggle speed up
 - press `q` to quit
+
+## License
+
+[GPL-3.0](https://github.com/Arom1a/qt-snake-vim-train/blob/main/LICENSE)
